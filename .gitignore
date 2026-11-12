@@ -1,0 +1,13 @@
+# Training checkpoints
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/s
+
+# Jupyter cache
+.ipynb_checkpoints/
