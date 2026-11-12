@@ -1,6 +1,9 @@
 # Training checkpoints
 results/
 
+# model checkpoint
+saved_summary_model/
+
 # Python cache
 __pycache__/
 *.pyc
@@ -11,3 +14,5 @@ venv/
 
 # Jupyter cache
 .ipynb_checkpoints/
+
+datasets/
